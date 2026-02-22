@@ -1,0 +1,65 @@
+Telecom Customer Churn and Retention Analysis
+
+Capstone Project – Business Analyst Certification (GCC Employability and Skill Program) – 2025
+
+Project Overview
+
+This project analyzes customer churn behavior for a hypothetical telecom company, JB-Link Telco. The objective was to identify churn drivers, assess revenue impact, and recommend retention strategies using data-driven insights.
+The dataset contains 7,044 customer records across 30 variables, including demographic, behavioral, service usage, and billing attributes.
+
+Business Objectives
+
+Identify key factors contributing to customer churn
+Measure churn rate and revenue impact
+Segment high-risk customer groups
+Provide insights to support retention strategies
+
+Dashboard Structure
+1. Customer Demographic Overview
+
+Total customers, median age, geographic distribution
+Gender distribution and dependent analysis
+Referral behavior
+Satisfaction rate
+
+2. Usage Trends Analysis
+
+Average monthly charges and tenure
+Internet type distribution
+Revenue by payment method
+Streaming and security service usage
+
+3. Churn Analysis
+
+Overall churn rate (26.54%)
+Churn by demographic segments
+Churn by risk level
+Churn by services and tenure
+
+4. Retention Analysis
+
+Retention rate (67.02%)
+Retained customers by value and risk
+Retention by internet type and tenure
+Customer lifetime value insights
+
+Tools Used
+
+Power BI (Data Modeling, DAX, KPI Development)
+Microsoft Excel (Data Preparation)
+Data Cleaning and Validation Techniques
+
+Key Insights
+
+High churn observed among senior customers and high-risk segments
+Customers using fiber optic services showed higher service engagement
+Credit card payment users demonstrated stronger retention patterns
+Targeted retention strategies can significantly reduce churn risk
+
+Skills Demonstrated
+
+KPI development and dashboard design
+Customer segmentation
+Revenue and churn impact analysis
+Business insight translation
+Structured problem-solving
